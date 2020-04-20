@@ -16,6 +16,7 @@ module.exports = (grunt) => {
         jshint: {
             options: {
                 esversion: 6,
+                node: true, // to ignore 'require' is not defined
             },
             lib: ['lib/**/*.js', 'Gruntfile.js'],
         }
