@@ -1,0 +1,12 @@
+{
+  "name": "yourvntools",
+  "version": "1.0.0",
+  "description": "data tools for vietnam open data portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["vietnam", "opendata"],
+  "author": "tamlt2704@gmail.com",
+  "license": "ISC"
+}
